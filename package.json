@@ -1,0 +1,1 @@
+{"name":"pvp-sentinel-complete","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node app.js","deploy":"node bot/deploy.js","dev":"node --watch app.js"},"dependencies":{"better-sqlite3":"^11.8.1","discord.js":"^14.21.0","dotenv":"^16.4.7","ejs":"^3.1.10","express":"^4.21.2","express-session":"^1.18.1","minecraft-server-util":"^5.4.4","socket.io":"^4.8.1"}}
